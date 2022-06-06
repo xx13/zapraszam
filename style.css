@@ -84,6 +84,7 @@ ul {
   width: 70%;
   margin: 0 auto 3rem;
   list-style: none;
+  text-align: left;
 }
 
 ul li {
